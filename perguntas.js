@@ -1,6 +1,6 @@
 criaCartao(
-    'matemática',
-    'quanto é 6:2?',
+    'Matemática',
+    'Quanto é 6:2?',
     '3'
 )
 
@@ -11,8 +11,8 @@ criaCartao(
 )
 
 criaCartao(
-    'matemática',
-    'quanto é 2+2?',
+    'Matemática',
+    'Quanto é 2+2?',
     '4'
 )
 
